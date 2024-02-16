@@ -1,0 +1,2 @@
+export PX4_HOME_LAT=43.64475
+export PX4_HOME_LON=-79.38499
